@@ -7,7 +7,7 @@
 
 Welcome to my Github!
 - 🔭 I’m currently working at [IBM](https://www.ibm.com/us-en) as a DevOps Technical Specialist
-- 🌱 I’m currently studying Software Engineering at FIAP University.
+- 🌱 I’m currently studying Software Engineering at FIAP University (5/8).
 - 💬 Ask me about **Java, SQL and C#**
 - 📫 How to reach me: [Lana Andrade](https://www.linkedin.com/in/lanaoliveiraandrade/) on LinkedIn
 - ⚡ Fun fact: I love martial arts
