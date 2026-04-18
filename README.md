@@ -6,11 +6,11 @@
 <p align="center"> <strong> Lana Andrade - Software Engineer </strong><p>
 
 Welcome to my Github!
-- 🔭 I’m currently working at [IBM](https://www.ibm.com/us-en) as a DevOps Technical Specialist
+- 🔭 I’m currently working at [Cielo](https://www.cielo.com.br/?srsltid=AfmBOop7WMiCQQfu9ZkkwuZb83krZ0fhqp4yVDFVTOAy__Dm4CL_DZPi) as a Jr. Software Engineer
 - 🌱 I’m currently studying Software Engineering at FIAP University (5/8).
 - 💬 Ask me about **Java, SQL and C#**
 - 📫 How to reach me: [Lana Andrade](https://www.linkedin.com/in/lanaoliveiraandrade/) on LinkedIn
-- ⚡ Fun fact: I love martial arts
+- ⚡ Fun fact: I love board games, skincare and tracking
 
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=lanaandrade&show_icons=true&layout=compact&theme=radical)
