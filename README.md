@@ -16,9 +16,12 @@ Welcome to my Github!
 
 ## Stats
 
-<p align="center">  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=lanaandrade&layout=pie&langs_count=8&size_weight=0&count_weight=1&theme=radical&hide=scss,css,html" /></p>
+<p align="center">  
+  
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=lanaandrade&layout=pie&langs_count=8&size_weight=0&count_weight=1&theme=radical&hide=scss,css,html" />
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=lanaandrade&langs_count=8&hide=scss,css,html&size_weight=0&count_weight=1&theme=radical" />
 
-<p align="center">  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=lanaandrade&langs_count=8&hide=scss,css,html&size_weight=0&count_weight=1&theme=radical" /></p>
+</p>
 
 ### Things I code with
 <p>
