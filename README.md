@@ -18,7 +18,7 @@ Welcome to my Github!
 
 ![Stats](https://github-readme-stats.shion.dev/api?username=lanaandrade&show_icons=true&theme=radical)
 
-<p align="center">  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=lanaandrade&langs_count=8&hide=SCSS;CSS;HTML&size_weight=0&count_weight=1&theme=radical" /></p>
+<p align="center">  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=lanaandrade&langs_count=8&hide=hide=scss,css,html&size_weight=0&count_weight=1&theme=radical" /></p>
 
 ### Things I code with
 <p>
