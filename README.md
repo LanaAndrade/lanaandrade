@@ -54,5 +54,9 @@ Welcome to my Github!
 
 </p>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zezoca29&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+</div>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0%3A9B59B6%2C100%3A3498DB&height=100&section=footer)
 
