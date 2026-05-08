@@ -18,9 +18,8 @@ Welcome to my Github!
 
 ![Stats](https://github-readme-stats.shion.dev/api?username=lanaandrade&show_icons=true&theme=radical)
 
-<div align="center">
-![Top Langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=lanaandrade&langs_count=8&size_weight=0&count_weight=1&theme=radical&hide=css,html,scss)
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Engineer;Romance+Movie+Enthusiast" />
 
 ### Things I code with
 <p>
