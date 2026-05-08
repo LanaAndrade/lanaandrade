@@ -15,7 +15,8 @@ Welcome to my Github!
 
 ## Stats
 ![Stats](https://github-readme-stats.shion.dev/api?username=lanaandrade&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=lanaandrade&langs_count=8)
+
 ### Things I code with
 <p>
   <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
