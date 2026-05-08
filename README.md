@@ -11,8 +11,9 @@ Welcome to my Github!
 - ⚡ Fun fact: I love board games, skincare and tracking
 
 ## Stats
-![](https://github-readme-stats.vercel.app/api?username=lanaandrade&show_icons=true&layout=compact&theme=radical)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaandrade&layout=donut&theme=radical)](https://github.com/lanaandrade/github-readme-stats)
+[![Lana's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanaandrade&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaandrade&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Things I code with
 <p>
