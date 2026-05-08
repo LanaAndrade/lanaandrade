@@ -15,9 +15,7 @@ Welcome to my Github!
 
 ## Stats
 
-<div align="center">
 ![Stats](https://github-readme-stats.shion.dev/api?username=lanaandrade&show_icons=true&theme=radical)
-</div>
 
 <div align="center">
 ![Top Langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=lanaandrade&langs_count=8&size_weight=0&count_weight=1&theme=radical&hide=css,html,scss)
