@@ -9,7 +9,7 @@
 
 Welcome to my Github!
 - 🔭 I’m currently working at [Cielo](https://www.cielo.com.br/?srsltid=AfmBOop7WMiCQQfu9ZkkwuZb83krZ0fhqp4yVDFVTOAy__Dm4CL_DZPi) as a Jr. Software Engineer
-- 🌱 I’m currently studying Software Engineering at FIAP University (5/8).
+- 🌱 I’m currently studying Software Engineering at FIAP (5/8).
 - 💬 Ask me about **Java, SQL and C#**
 - 📫 How to reach me: [Lana Andrade](https://www.linkedin.com/in/lanaoliveiraandrade/) on LinkedIn
 - ⚡ Fun fact: I love board games, skincare and tracking
