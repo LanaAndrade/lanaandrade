@@ -12,7 +12,7 @@ Welcome to my Github!
 
 ## Stats
 ![Stats](https://github-readme-stats.shion.dev/api?username=lanaandrade&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaandrade&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=lanaandrade&size_weight=0.5&count_weight=0.5)
 
 ### Things I code with
 <p>
