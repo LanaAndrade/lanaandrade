@@ -12,7 +12,7 @@ Welcome to my Github!
 
 ## Stats
 ![Stats](https://github-readme-stats.shion.dev/api?username=lanaandrade&show_icons=true&theme=radical)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanaandrade&layout=compact&theme=radical&cache_seconds=1800"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaandrade&size_weight=0.5&count_weight=0.5)
 
 ### Things I code with
 <p>
@@ -41,8 +41,6 @@ Welcome to my Github!
 
   <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-
-  ![Streak](https://streak-stats.demolab.com?user=lanaandrade&theme=radical)
 
   <img alt="SQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
