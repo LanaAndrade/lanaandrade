@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0%3A9B59B6%2C100%3A3498DB&height=100&section=header)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Engineer;Romance+Movie+Enthusiast" alt="Typing SVG" />
+##  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Engineer;Romance+Movie+Enthusiast" alt="Typing SVG" />
 </div>
-<div style="height: 1px; background-color: #30363d;"></div>
 <p align="center"> <strong> Lana Andrade - Software Engineer </strong><p>
 
 Welcome to my Github!
