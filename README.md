@@ -11,8 +11,7 @@ Welcome to my Github!
 - ⚡ Fun fact: I love board games, skincare and tracking
 
 ## Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lanaandrade&show_icons=true&theme=radical&cache_seconds=1800"/>
-
+![Stats](https://github-readme-stats.shion.dev/api?username=lanaandrade&show_icons=true&theme=radical)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanaandrade&layout=compact&theme=radical&cache_seconds=1800"/>
 
 ### Things I code with
